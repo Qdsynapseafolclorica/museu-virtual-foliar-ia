@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.8.2
+python-dotenv==1.0.1
+requests==2.32.3
+numpy==1.26.4
+sentence-transformers==3.0.1
+faiss-cpu==1.7.4
+pypdf==4.3.1
+pdfminer.six==20221105
+scikit-learn==1.4.2
+
+# Modelos open-source (opcionais, escolha um)
+llama-cpp-python==0.2.82
+transformers==4.44.2
+accelerate==0.33.0
+torch==2.3.1
